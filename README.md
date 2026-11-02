@@ -1,8 +1,10 @@
-# Circle — a case study in designing for audience isolation
+# Family Circles: a case study in designing for audience isolation
 
-A one-way family notice board for families that span more than one household. Working name. No production code exists: this is a product and architecture design, taken to the point where it could be built, and written up here because the design is the interesting part.
+A one way family notice board for families that span more than one household. It shipped as **Family Circles**, live at [tryfamilycircles.app](https://tryfamilycircles.app): the owner and relative web apps are built, and it has not yet been tested with real families. This write up covers the product and architecture design that came first, because the design is the interesting part.
 
-The spec, backlog and architecture live in a private repo. This one is the write-up.
+**Status, November 2026:** built and live, pre beta. Earlier drafts of this write up called it Circle, a working name, and described it before any code existed.
+
+The code, spec, backlog and architecture live in a private repo. This one is the write up.
 
 ---
 
